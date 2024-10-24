@@ -1,0 +1,26 @@
+Bowen considered that the formal methods had great potential benefits in the software testing and described these benefits in
+improving software testing quality 
+[] J. P. Bowen, B. Kirill, C. John, et al. For test: formal methods and testing. Proc. of the 26th International Conference on
+Computer Software and Applications, 2002: 91–101.
+
+
+The software testing techniques based on state can fully verify the event, action and the relationship between state transitions which can help us to
+determine whether the system behaviours meet the system requirements.
+Yongfeng Yin1, Bin Liu, Hongying Ni:Real-time embedded software testing method based on
+extended finite state machine，Journal of Systems Engineering and Electronics
+Vol. 23, No. 2, April 2012, pp.276–285
+
+参考文献类bai型：专著[M]，论文集[C]，报纸文章du[N]，期zhi刊文章[J]，学位论文[D]，报告[R]，标准[S]，专利[P]，论文集中的析出文献[A]
+
+
+
+
+[1] D. G. Bell, G. P. Brat. Automated software verification & validation: an emerging approach for ground operations. Proc.
+of the IEEE Aerospace Conference, 2008: 1–8.
+[2]王琳琳,刘耀军 基于有限状态自动机极小化的 Web 应用系统测试 [J] 太原科技大学学报 ,2017, 38(1):11-14
+[3]黄志强,苏颖 有限自动机在自动控制软件设计中的应用 [J] 华北电力大学学报,2002,29(1):49-51
+[4]蒋宗礼,姜守旭 形式语言与自动机理论: 第三版[M] 北京: 清华大学出版社,2013
+[5]Yongfeng Yin1, Bin Liu, Hongying Ni:Real-time embedded software testing method based on
+extended finite state machine，Journal of Systems Engineering and Electronics
+Vol. 23, No. 2, April 2012, pp.276–285
+[6]刘攀,缪淮扣,曾红卫等 基于 FSM 的测试理论、方法及评估［J］计算机学报,2011,34(6):965-984．
